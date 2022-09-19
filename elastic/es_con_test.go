@@ -9,7 +9,7 @@ import (
 )
 
 // @Author Chen Zikang
-// @Email  zikang.chen@shopee.com
+// @Email  parakovo@gmail.com
 // @Since  2022-07-16
 
 var (
